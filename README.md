@@ -16,6 +16,6 @@ The idea of the project is to build a Recommender System, and implement a Conver
   * Summarize Product Description: We'll use t5-small model from Google to summarize product using product description  to users.
 
 
-About Me:
+# **About Me:**
 I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite TowardsMachineLearning.Org , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
 
