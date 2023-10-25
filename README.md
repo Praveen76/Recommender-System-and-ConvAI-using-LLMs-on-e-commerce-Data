@@ -2,6 +2,9 @@
 
 # **Project Summary:**
 We'll use amazon's data for our project. You can either download data directly from [Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset), or  you can donwload using Kaggle's API.
+
+![ConvAI using LLMs ](https://github.com/Praveen76/Recommender-System-and-ConvAI-using-LLMs-on-e-commerce-Data/blob/main/Conversational%20AI.webp)
+
 The idea of the project is to build a Recommender System, and implement a Conversation AI for different tasks ( explained below).
 
 # Recommender System using cosine and jaccard similarity:
