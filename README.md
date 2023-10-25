@@ -17,7 +17,6 @@ The idea of the project is to build a Recommender System, and implement a Conver
 
 
 # Instructions for Installation
-Download Dataset from the above Link and store the files in the data folder. Run any of the Python notebook according to the task desired
 
 **Dependencies:**
 You'll need to install below dependencies to run this project.
