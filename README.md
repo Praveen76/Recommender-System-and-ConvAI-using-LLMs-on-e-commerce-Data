@@ -17,5 +17,4 @@ The idea of the project is to build a Recommender System, and implement a Conver
 
 
 # **About Me:**
-I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite TowardsMachineLearning.Org , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
-
+I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
